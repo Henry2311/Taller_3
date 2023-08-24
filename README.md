@@ -26,3 +26,5 @@ pip install mysql-connector-python
 Para conocer más a detalle las librerias pueden constultar los enlaces:
 - [Flask](https://flask.palletsprojects.com/en/2.3.x/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
+- [Tutorial](https://drive.google.com/file/d/1MqNL0aAwjDyo2LxqZFnKVtuKSSOROyZm/view?usp=sharing)
+
