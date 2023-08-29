@@ -5,4 +5,4 @@ DB_PASSWORD = '1234' #contraseña
 DB_HOST = 'localhost' #host de la bd
 DB_NAME = 'taller3' #nombre de la DB
 
-DB_URL = f'mysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}/{DB_NAME}'
+DB_URL = f'mysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:8080/{DB_NAME}'

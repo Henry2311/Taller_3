@@ -28,3 +28,13 @@ Para conocer más a detalle las librerias pueden constultar los enlaces:
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Tutorial](https://drive.google.com/file/d/1MqNL0aAwjDyo2LxqZFnKVtuKSSOROyZm/view?usp=sharing)
 
+
+## Comandos Docker
+
+```bash
+sudo docker images
+sudo docker ps 
+sudo docker ps -a
+sudo docker run --name devmysql -e MYSQL_ROOT_PASSWORD=1234 -p 3306:3306 -d mysql:latest
+sudo docker exec devmysql mysql -uroot -p
+```
